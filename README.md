@@ -7,14 +7,14 @@ My first html document.
    </head>
 <body>
   <table>
- <tr>Stundte Name</tr>
- <tr>Hindi</tr>
- <tr>English</tr>
- <tr>Maths</tr>
- <tr>Social Science</tr>
- <tr>Science</tr>
-
- <td>Kishor Chouhan </td>
+ <th>Stundte Name</th>
+ <th>Hindi</th>
+ <th>English</th>
+ <th>Maths</th>
+ <th>Social Science</th>
+ <th>Science</th>
+  
+<td>Kishor Chouhan </td>
   <td>78</td>
   <td>80</td>
   <td>76</td>
